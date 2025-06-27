@@ -18,15 +18,15 @@ Uma aplicação leve e divertida para organizar seu amigo-secreto online, com va
 
 ## 📂 Estrutura do Projeto
 
-
+```plaintext
 Amigo-secreto/
-├── assets/         # Imagens, ícones e outros recursos estáticos  
-├── js/             # Lógica de validação e sorteio  
-│   └── script.js  
-├── index.html      # Interface principal  
-├── style.css       # Estilos da aplicação  
-└── README.md       # Documentação  
-
+├── assets/        # Imagens, ícones e recursos estáticos
+├── js/            # Lógica de validação e sorteio
+│   └── script.js
+├── index.html     # Interface principal
+├── style.css      # Estilos da aplicação
+└── README.md      # Documentação
+```
 
 ## 💻 Como usar
 
